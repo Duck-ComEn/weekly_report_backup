@@ -5,3 +5,14 @@ cal row
 
 Cells(2, Columns.Count).End(xlToLeft).Column
 cal column
+
+
+
+
+	 
+	 Course Outline : 		
+			 
+			ประเภทเอกสารภายในองค์กร
+			การควบคุม, การจัดทำ และการลงทะเบียน
+			การนำไปใช้อย่างถูกต้อง.
+			 
